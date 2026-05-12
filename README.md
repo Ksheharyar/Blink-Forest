@@ -9,7 +9,7 @@ Blink Forest is a mysterious and atmospheric game experience where players explo
 🌍 Itch.io:
 [https://mohd-sheharyar.itch.io/blink-forest](https://mohd-sheharyar.itch.io/blink-forest)
 
----
+----
 
 # 🎯 Game Overview
 
