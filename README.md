@@ -13,7 +13,7 @@ Blink Forest is a mysterious and atmospheric game experience where players explo
 
 # 🎯 Game Overview
 
-Step into the eerie world of Blink Forest, where every path hides mystery and danger. Players must navigate through dark environments, survive unexpected encounters, and uncover the secrets hidden deep within the forest.
+Step into the eerie world of Blink Forest, where every path hides mystery and danger. Players must na vigate through dark environments, survive unexpected encounters, and uncover the secrets hidden deep within the forest.
 
 The game focuses on:
  
