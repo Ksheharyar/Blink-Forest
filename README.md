@@ -1,4 +1,4 @@
- # 🌲 Blink Forest
+  # 🌲 Blink Forest
 
 Blink Forest is a mysterious and atmospheric game experience where players explore a dark forest filled with secrets, challenges, and immersive environments. The game focuses on exploration, survival elements, and engaging gameplay mechanics designed to create tension and curiosity throughout the experience.
 
