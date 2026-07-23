@@ -19,7 +19,7 @@ The game focuses on:
  
 * 🌲 Atmospheric exploration
 * ⚠️ Survival gameplay mechanics
-* 🧩 Environmental storytelling
+* 🧩 Environmental storytelling 
 * 🎮 Immersive player experience
 * 🌌 Dark visual atmosphere
 * 🎯 Challenging progression
